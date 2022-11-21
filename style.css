@@ -1,0 +1,15 @@
+body{
+    background-image: url('simple-and-decent-love-wallpapers.jpg');
+    height: auto;
+    width: 100%;
+}
+.form-control{
+    background-color: rgb(104, 17, 17);
+    border: 2px solid red;
+}
+.btn{
+    background-color: rgb(104, 17, 17);
+    border: 2px solid red;
+    color: white;
+    
+}
